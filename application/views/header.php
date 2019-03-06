@@ -4,7 +4,7 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Natarang Pratishthan - Archive and Research Centre for Indian Theatre</title>
+    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>NEWS</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -44,7 +44,7 @@
    
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.png">
+    <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.png?v=1.0">
 </head>
 <body>
 <?php ?>
