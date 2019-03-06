@@ -1,0 +1,23 @@
+{
+	"Brochure" : {
+		"selectKey" : [
+			"State",
+			"Place"
+		],
+		"sortKey" : {"Date" : -1}
+	},
+	"Photograph" : {
+		"selectKey" : [
+			"State",
+			"Place"
+		],
+		"sortKey" : {"Date" : -1}
+	},
+	"Newspaper Clipping" : {
+		"selectKey" : [
+			"language",
+			"year"
+		],
+		"sortKey" : {"month" : -1}
+	}
+}
